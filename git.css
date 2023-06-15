@@ -42,6 +42,7 @@ body {
 .wrapper {
 	display: flex;
 	justify-content: space-around;
+	
 }
 
 .sec__block {
@@ -56,4 +57,26 @@ body {
 .sec__block p {
 	font-size: 15px;
 	color: #99958C;
+}
+
+.article {
+	width: 1440px;
+	height: 900px;
+	background-image: url('01-Learn-How-to-Code-a-Mobile-app.jpg');
+	margin: 140px 0px;
+text-align: center;
+
+} 
+
+.article__text {
+	
+	text-align: center;
+	padding: 300px 0px;
+
+}
+.article__text h1 {
+	font-size: 25px;
+	color: #fff;
+	opacity: 0.8;
+
 }
