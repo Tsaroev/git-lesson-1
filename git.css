@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.container {
+	width: 1440px;
+	margin: auto;
+}
+
+.header {
+	width: 100%;
+
+}
+
+.navbar {
+	
+	display: flex;
+	justify-content: space-between;
+
+}
