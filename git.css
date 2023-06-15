@@ -13,7 +13,7 @@ body {
 .header {
 	width: 100%;
     height: 800px;
-    background-image: url('ac346f223e79c470a1414617fc120437.jpg');
+    background-image: url('headerbg.jpg');
 
     background-size: cover;
 
@@ -62,7 +62,7 @@ body {
 .article {
 	width: 1440px;
 	height: 900px;
-	background-image: url('01-Learn-How-to-Code-a-Mobile-app.jpg');
+	background-image: url('bg.jpg');
 	margin: 140px 0px;
 text-align: center;
 
@@ -71,7 +71,7 @@ text-align: center;
 .article__text {
 	
 	text-align: center;
-	padding: 300px 0px;
+	padding: 350px ;
 
 }
 .article__text h1 {
