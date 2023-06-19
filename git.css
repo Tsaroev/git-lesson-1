@@ -52,11 +52,12 @@ body {
 }
 .sec__block img {
 	border-radius: 5px;
-
+    box-shadow: 0 0 20px 0 black
 }
 .sec__block p {
 	font-size: 15px;
 	color: #99958C;
+	
 }
 
 .article {
